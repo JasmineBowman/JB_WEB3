@@ -1,4 +1,4 @@
-# JB_WEBSITE
+# JB_WEBSITE_3D
 In progress personal webpage to highlight projects I'm building developing 
 
 Stack Notes
